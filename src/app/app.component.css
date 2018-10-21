@@ -1,0 +1,14 @@
+.active {
+    color:red;
+}
+ul {
+    display: flex;
+}
+ul li {
+    list-style: none;
+    cursor: pointer;
+    margin-left: 20px;
+}
+p{
+    border: 1px solid black;
+}

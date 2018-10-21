@@ -1,0 +1,11 @@
+span {
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    border-radius: 50%;
+    border: 1px solid orange;
+    background: orange;
+}
+span.full {
+    background: none;
+}
